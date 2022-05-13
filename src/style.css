@@ -4,8 +4,7 @@
     box-sizing: border-box;
   }
   
-  html,
-  body {
+  body html {
     overflow-x: scroll;
   }
   
